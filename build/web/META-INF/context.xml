@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Assignment2_LeMinhTuan">
+    <Resource auth="Container"
+    name="Lab2"
+    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+    url="jdbc:sqlserver://localhost:1433;databaseName=Assignment2_LeMinhTuan"
+    type="javax.sql.DataSource"
+    username="sa" password="123"
+    />
+</Context>
