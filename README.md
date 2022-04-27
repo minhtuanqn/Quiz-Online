@@ -1,5 +1,9 @@
 # This is Quiz-Online Repository
 
+## Description:
+
+* This is an web application for quiz online management
+
 ## Technology:
 
 * Servlet
